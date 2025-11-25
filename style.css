@@ -47,6 +47,12 @@ main
     flex-direction: column;
 }
 
+footer
+{
+    background-color: #1c1c1c;
+    bottom: 0;
+}
+
 /* Styles for Flappy Anton game */
 canvas 
 {
